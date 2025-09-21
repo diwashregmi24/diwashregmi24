@@ -62,7 +62,7 @@
 ### 📬 Contact & Portfolio
 
 - 📧 [Email Me](diwashregmi24@gmail.com)  
-- 🌐 [Portfolio Website]([https://yourportfolio.com](https://www.linkedin.com/in/diwash-regmi-7851b2386/))
+- 🌐 [Portfolio Website](https://www.linkedin.com/in/diwash-regmi-7851b2386/)
 
 ---
 

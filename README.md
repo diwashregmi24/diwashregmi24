@@ -57,12 +57,6 @@
   <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub">
 </p>
 
----
-
-### 📬 Contact & Portfolio
-
-- 📧 [Email Me](diwashregmi24@gmail.com)  
-- 🌐 [Portfolio Website](https://www.linkedin.com/in/diwash-regmi-7851b2386/)
 
 ---
 
